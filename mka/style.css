@@ -1,0 +1,57 @@
+body{
+   background: linear-gradient(to top,red,rgb(247, 242, 242));
+   font-family: 'Times New Roman', Times, serif;
+}
+.ana-çerçeve{
+    background-color: rgb(246, 230, 190);
+    margin: 0 auto;
+    text-align: center;
+    width: 800px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+    
+}
+.resim{
+  
+    width: 400px;
+    height: 300px;
+
+    object-fit: cover;
+  
+    margin: 30px auto;
+
+    border: 5px solid rgb(211, 117, 117);
+    border-radius: 20px;
+    
+    display: block;
+    
+}
+.alt-başlık{
+    color: rgb(58, 43, 43);
+    
+    font-size: 20px;
+
+    margin: 20px auto;
+
+}
+.çizgi{
+    width: 500px;
+    height: 6px;
+    background-color: rgb(181, 116, 116);
+    margin: 0 auto;
+    border-radius: 20px;
+}
+summary{
+   color: brown;
+   cursor: pointer;
+}
+footer{
+    background-color: rgb(246, 230, 190);
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20px;
+    height: 25px;
+}
+
+
